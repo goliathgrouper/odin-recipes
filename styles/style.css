@@ -1,0 +1,9 @@
+body {
+    background-color: rgba(31, 31, 31, 0.26);
+    color: rgb(175, 14, 14);
+    font-family: "Times New Roman", serif;
+}
+
+ul {
+    background-color: aqua;
+}
