@@ -1,12 +1,50 @@
+html {
+    height: 100%
+}
+
+h1 {
+    font-size: 40px;
+}
+
 body {
     background-color: rgba(219, 85, 7, 0.664);
     color: rgb(175, 14, 14);
     font-family: "Times New Roman", serif;
     text-align: center;
+    height: 100%;
+    border: 8px solid rgba(116, 43, 43, 0.63)
 }
 
 ul {
-    background-color: aqua;
+    background-color: rgba(155, 56, 56, 0.671);
     list-style: none;
+    padding: 10px;
+    margin: 10px 5%;
+    height: 95%
 }
 
+.container {
+    margin: 0 10%;
+    border: 10px double burlywood;
+    height: 70%;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: white;
+}
+
+a {
+    color:rgba(219, 85, 7, 0.664);
+}
+
+li {
+    margin: 10% 0;
+    font-weight: bold;
+    font-style: italic;
+    border: 3px double rgba(116, 43, 43, 0.63);
+
+}
