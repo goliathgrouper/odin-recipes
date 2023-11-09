@@ -1,9 +1,12 @@
 body {
-    background-color: rgba(31, 31, 31, 0.26);
+    background-color: rgba(219, 85, 7, 0.664);
     color: rgb(175, 14, 14);
     font-family: "Times New Roman", serif;
+    text-align: center;
 }
 
 ul {
     background-color: aqua;
+    list-style: none;
 }
+
