@@ -9,7 +9,8 @@ body {
     color: rgb(175, 14, 14);
     font-family: "Times New Roman", serif;
     text-align: center;
-    border: 8px solid rgba(116, 43, 43, 0.63)
+    border: 8px solid rgba(116, 43, 43, 0.63);
+    padding: 10px;
 }
 
 ul {
