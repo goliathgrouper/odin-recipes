@@ -1,6 +1,4 @@
-html {
-    height: 100%
-}
+
 
 h1 {
     font-size: 40px;
@@ -11,7 +9,6 @@ body {
     color: rgb(175, 14, 14);
     font-family: "Times New Roman", serif;
     text-align: center;
-    height: 100%;
     border: 8px solid rgba(116, 43, 43, 0.63)
 }
 
@@ -20,7 +17,7 @@ ul {
     list-style: none;
     padding: 10px;
     margin: 10px 5%;
-    height: 95%;
+
     border-radius: 8px; 
 }
 
